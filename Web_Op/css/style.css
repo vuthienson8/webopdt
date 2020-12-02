@@ -1,0 +1,83 @@
+.nav-link {
+    color: #000;
+    font-size: 16px;
+    font-weight: 700;
+}
+.nav-link:hover {
+    color: #e74c3c;
+}
+
+
+.icon {
+    float: left;
+    height: 100%;
+    width: 40px;
+}
+.text-header {
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.text {
+    font-size: 14px;
+}
+.text-hd {
+    text-align: center;
+    margin-left: -50px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    word-spacing: 10px
+}
+
+.sanpham-title p {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: inline;
+}
+.sanpham-title {
+    display: inline;
+    padding: 5px 0;
+    border-bottom: 2px solid rgba(206, 20, 20, 0.5)
+}
+.sp-hover{
+    transition: 0.3s;
+}
+.sp-hover:hover {
+    transform: translatey(-12px);
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.6);
+    cursor: pointer;
+}
+.sp-hover h2 {
+    font-weight: 200;
+
+}
+.sp-hover p {
+    color: red;
+}
+
+/* Tin tức */
+.title-tintuc a {
+    text-decoration: none;
+    color: black;
+}
+.title-tintuc a:hover {
+    text-decoration: none;
+    color: #e74c3c;
+}
+/* footer */
+.footer {
+    background: #2d3436;
+    width: 100%;
+}
+.ds {
+    list-style: none;
+}
+.ds li a {
+    font-size: 18px;
+    text-decoration: none;
+    color:  #ecf0f1;
+}
+.ds li a:hover {
+    text-decoration: none;
+    color: #e74c3c
+}

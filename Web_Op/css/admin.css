@@ -1,0 +1,24 @@
+.header{
+    height: 65px;
+    background-color: #0085dd;
+}
+.logo{
+    width: 35%;
+    margin: 5px 35%;
+}
+.nav-link{
+    color: #ffffff;
+    padding: 21px;
+    text-align: center;
+}
+.nav-link:hover{
+    color:  #0085dd;
+    background-color: #ffffff;
+}
+
+
+
+.footer{
+    height: 70px;
+    background-color: #0085dd;
+}
